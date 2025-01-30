@@ -8,3 +8,5 @@ _https://www.scrums.com/blog/fashion-meets-tech-a-future-of-fashion-software-dev
 
 ‍
 
+### additional comment
+- David Yu - The mentioning of optimizing production processes mirrors the importance of software quality. A better process means better efficiency, cutting production costs and time, and means that having a higher quality back end trades positively against the cost of implementing a better system.
